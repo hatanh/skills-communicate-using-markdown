@@ -5,3 +5,6 @@
 ``` python
 print("Hello world")
 ```
+- [x] exercise
+- [ ] complete web portfolio
+- [ ] fill portfolio with additional items
